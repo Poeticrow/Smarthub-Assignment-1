@@ -1,0 +1,6 @@
+1. Imperative Programming: This consists of a set of detailed intructions that are given to the computer to execute in a given order.
+2. Procedural Programming: This is a derivation of imperative programming but functions are added and are an important part of it
+3.Functional Programming: Functions are treated a first class citizens, meaning they can be assingned to variables, passed as arguments and returned from other functions
+4.Declarative Programming: This is all about hiding the complexity and bringing the programming language closer to human language and thinking. It is focused on the result instead of the process.
+5.Object-oriented Programming: The core concept of OOP is to separate concerns into entities which are called objects. 
+6.Structured Programming: Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection and repetition, block structures, and subroutines.
